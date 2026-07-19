@@ -2,9 +2,9 @@
 <p align="center">Aspiring Web Developer sharing my journey and learnings in tech</p>
 
 ### 💫 About Me:
-- I build web applications using Laravel and PHP
-- I’m currently learning Laravel, PHP, JavaScript, React, Tailwind CSS, and Node.js
-- I’m open for Laravel project commisions
+- I build web applications using React.js, Node.js
+- I’m currently learning JavaScript, React, Tailwind CSS, and Node.js
+- I’m open for Javascript project commisions
 - How to reach me tristhandavem27@gmail.com
 - **Fun fact:** More bug, more fun
 
