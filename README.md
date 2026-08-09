@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tristhan Dave Malab</h1>
+<h1 align="center">Hi, I'm Tristhan Dave Malab</h1>
 <p align="center">Aspiring Web Developer sharing my journey and learnings in tech</p>
 
-### 💫 About Me:
+### About Me:
 - I build web applications using React.js, Node.js
 - I’m currently learning JavaScript, React, Tailwind CSS, and Node.js
 - I’m open for Javascript project commisions
@@ -9,7 +9,7 @@
 - **Fun fact:** More bug, more fun
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
